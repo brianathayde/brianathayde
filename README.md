@@ -1,9 +1,9 @@
 # Oi, sou Brian Athayde
 
   
-:computer: Desenvolvedor Full Stack
+:computer: Desenvolvedor Back End
 
-:books: Cursando Análise e Desenvolvimento de Sistemas na IBMR
+:books: Análise e Desenvolvimento de Sistemas - IBMR
 
 :house: Rio de Janeiro - Brasil
 
