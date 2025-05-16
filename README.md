@@ -1,7 +1,7 @@
 # Oi, sou Brian Athayde
 
   
-:computer: Desenvolvedor Fullstack
+:computer: Desenvolvedor Backend
 
 :books: Engenharia de Software - PUC Minas
 
