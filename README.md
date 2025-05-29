@@ -4,6 +4,7 @@
 :computer: Desenvolvedor Backend
 
 :mortar_board: Engenharia de Software - PUC
+
 :mortar_board: Análise e Desenvolvimento de Sistemas - IBMR
 
 :house: Rio de Janeiro - Brasil
