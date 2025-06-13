@@ -1,7 +1,7 @@
 # Brian Athayde
 
 
-:computer: Desenvolvedor Backend
+:computer: Desenvolvedor de Software
 
 :trophy: Engenharia de Software - PUC
 
