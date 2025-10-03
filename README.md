@@ -1,7 +1,7 @@
 # Brian Athayde
 
 
-:computer: Desenvolvedor de Software
+:computer: Desenvolvedor FullStack
 
 :trophy: Engenharia de Software - PUC
 
