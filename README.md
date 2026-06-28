@@ -1,11 +1,11 @@
 # Brian Athayde
 
 
-:computer: Desenvolvedor FullStack
+:computer: Desenvolvedor com projetos desde 2017 aqui no GitHub  :octocat:
 
-:trophy: Engenharia de Software - PUC
+:mortar_board: Pós Graduação: Engenharia de Software - PUC
 
-:mortar_board: Análise e Desenvolvimento de Sistemas - IBMR
+:mortar_board: Graduação: Análise e Desenvolvimento de Sistemas - IBMR
 
 :house: Brasil
 
